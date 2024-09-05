@@ -1,2 +1,2 @@
 # IGME_201_My_Pull_Exercise
-A practice exercise to practice pulling
+This is the readme file in my favorite repo!
